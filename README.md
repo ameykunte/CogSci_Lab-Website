@@ -3,4 +3,4 @@
 Code for the website of CogSci Lab Projects under Dr.Kavita Vemuri.
 2023
 
-Coming soon...
+[Click Here for V1](https://ameykunte.github.io/CogSci_Lab-Website/)
